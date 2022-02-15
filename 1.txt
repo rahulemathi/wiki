@@ -1,0 +1,35 @@
+/* 1 */
+{
+    "_id" : ObjectId("617aca00d75d39d61f238c19"),
+    "title" : "REST",
+    "content" : "Rest is short for representational state transfer. Its and architectural style for designing API's"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5c139771d79ac8eac11e754a"),
+    "title" : "API",
+    "content" : "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5c1398aad79ac8eac11e7561"),
+    "title" : "Bootstrap",
+    "content" : "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5c1398ecd79ac8eac11e7567"),
+    "title" : "DOM",
+    "content" : "The Document Object Model is like an API for interacting with our HTML"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("617c14dd66dd137c95c59889"),
+    "title" : "Para",
+    "content" : "A simple paragraph is comprised of three major components. The first sentence, which is often a declarative sentence, is called the “topic sentence.” It introduces the topic of the paragraph, setting its tone and mood. ... The final sentence is the concluding sentence, which wraps up the topic discussed in the paragraph.",
+    "__v" : 0
+}
